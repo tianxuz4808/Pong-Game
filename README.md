@@ -3,6 +3,8 @@ This is a very basic Pong game that I created (mostly) by myself
 
 Source: https://www.youtube.com/watch?v=1gir2R7G9ws&list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa&ab_channel=RealTutsGML
 
+I learned most of what I needed from this youtube playlist.
+
  I used this playlist as an inspiration that helped me figure out the steps I needed to
  implement in order to create a Pong game.
  
